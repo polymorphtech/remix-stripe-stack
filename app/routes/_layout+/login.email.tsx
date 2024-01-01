@@ -59,7 +59,7 @@ export default function Login() {
             <span className="text-green-500">Email has been successfully sent.</span>
           ) : (
             <span>
-              Type bellow your email, and we'll send you a <br /> One Time Password code.
+              Type below your email, and we'll send you a <br /> One Time Password code.
             </span>
           )}
         </p>
